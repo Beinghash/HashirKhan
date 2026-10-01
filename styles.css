@@ -80,10 +80,9 @@ nav ul li a:hover::after{
 .header-text h1{
     font-size: 60px;
     margin-top: 20px;
-    color: #f3d783
 }
 .header-text h1 span{
-    color: #f7ca44;
+    color: #f3d783;
 }
 
 /* ------------------------about-----------> */
