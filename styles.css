@@ -211,7 +211,7 @@ nav ul li a:hover::after{
 }
 .work-list{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
     grid-gap: 40px;
     margin-top: 50px;
 }
@@ -411,7 +411,7 @@ nav .fa-xmark, nav .fa-ellipsis-vertical{
     } 
     
     nav ul {
-        background: #f3d372;
+        background: #f3d783;
         position: fixed;
         top: 0;
         right: -100px;
